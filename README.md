@@ -37,7 +37,6 @@ Dans notre projet, on a utilisé deux listes chainées :
 On considère aussi que la mémoire centrale contient 25 pages et chaque page = 100 registres.
 
 ![](Simulation-of-memory-paging/pagination2.png)
-
 //Le langage utilisé
 
 L'implémentation du programme s’est appuyé sur le langage C qui est un langage de programmation impératif conçu pour la programmation système, tout en le compilant à l'aide de l’IDE (Environnement de développement intégré) Code::Blocks. 
