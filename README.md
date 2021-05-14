@@ -33,7 +33,10 @@ Dans notre projet, on a utilisé deux listes chainées :
 *page_prog : est un pointeur pointant vers la liste des pages occupées par le programme.
 *prog_suiv : est un pointeur pointant vers le programme suivant
 ![](images/pagination1.png)
+
 On considère aussi que la mémoire centrale contient 25 pages et chaque page = 100 registres.
+
+![](images/pagination2.png)
 
 //Le langage utilisé
 L'implémentation du programme s’est appuyé sur le langage C qui est un langage de programmation impératif conçu pour la programmation système, tout en le compilant à l'aide de l’IDE (Environnement de développement intégré) Code::Blocks. 
