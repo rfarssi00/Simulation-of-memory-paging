@@ -33,6 +33,8 @@ Dans notre projet, on a utilisé deux listes chainées :
 *page_prog : est un pointeur pointant vers la liste des pages occupées par le programme.
 *prog_suiv : est un pointeur pointant vers le programme suivant
 
+![](images/pagination1.png)
+
 On considère aussi que la mémoire centrale contient 25 pages et chaque page = 100 registres.
 
 //Le langage utilisé
